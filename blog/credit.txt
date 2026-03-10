@@ -1,0 +1,2 @@
+Credit for any open source immages used in this blog:
+ - moon.svg/sun.svg/moonsun.svg: https://fonts.google.com/
